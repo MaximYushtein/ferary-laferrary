@@ -1,0 +1,43 @@
+p{
+    display: block;
+    text-align: center;
+    color: white;
+  }
+  img{
+   
+      
+     box-shadow: 0 0 10px blue;
+  width: 423px;
+  margin: 20px;
+  }
+  .may{
+    
+  display: flex;
+  margin: auto;
+  
+  }
+  .may img{
+      width: 100%;
+      margin: 0;
+  }
+  h1{
+      text-align:center ;
+      color: white;
+        font-family: "Open Sans";
+  }
+  body{
+      background-image: url("bg.jpg");
+      text-align: center;
+  
+  }
+  a{
+      color: rgba(128, 128, 128, 0.731);
+  text-decoration-line: none;
+  display: block;
+  text-align: center;
+  font-family: "Open Sans",
+  }
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
